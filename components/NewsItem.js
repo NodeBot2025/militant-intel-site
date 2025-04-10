@@ -1,0 +1,1 @@
+// React component to render a news item

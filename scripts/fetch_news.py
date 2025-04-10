@@ -1,0 +1,1 @@
+# Python script to fetch and summarize military news
